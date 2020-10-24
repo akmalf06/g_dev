@@ -1,6 +1,6 @@
 ### Nama       : Barhan Akmal Falahudin
 ### Institusi  : Institut Teknologi Sepuluh Nopember
-### Jurusan    : Teknik Informatika
+### Jurusan    : S1 Teknik Informatika
 ### Angkatan   : 2020
 
 
